@@ -3,9 +3,9 @@
 	"id": "electricity",
 	"version": "${version}",
 	"name": "Electricity",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod with added power equipment",
 	"authors": [
-		"Me!"
+		"alazeprt"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -22,9 +22,9 @@
 		"electricity.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.14.19",
+		"fabricloader": ">=0.14.8",
 		"minecraft": "~1.16.5",
-		"java": ">=16",
+		"java": ">=8",
 		"fabric-api": "*"
 	},
 	"suggests": {
